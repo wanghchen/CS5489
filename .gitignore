@@ -2,3 +2,5 @@
 *.mp3
 *.zip
 *.pickle3
+*.pkl
+*.csv
